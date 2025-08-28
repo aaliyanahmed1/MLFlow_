@@ -1,5 +1,19 @@
-# MLflow Guide
+# MLFlow 
+Machine Learning is not just about building models.it's alos about deploying, managing and maintaining them.This is where machine learning opeartions (MLOps) come in. MLOps combines machine learning woth DevOps practices to streamline the entire model lifecycle, from training to deployment.It ensures automation, collaboration and scalability in machine learning workflows. To supportthis a grwoing set of tools has emerged.
 
+## MLflow Guide
+### **MLFlow**
+
+[MLFlow](https://mlflow.org/) is an opensource tool that helps track machine learning experiments. it lets you log training runs, version models and manage deployment stages.
+MLFlow works with many popular machine learning libraries and can be used in any enviroment.
+
+KEY FEATURES :
+
+Track metirces, parameters and artifacts for each run.
+
+save and version models for reproducibility.
+
+manages models in differnet lifecycle stages.
 
 
 ## Contents
