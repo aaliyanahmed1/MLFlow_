@@ -1,4 +1,4 @@
-# MLFlow 
+# MLFOPs
 Machine Learning is not just about building models.it's alos about deploying, managing and maintaining them.This is where machine learning opeartions (MLOps) come in. MLOps combines machine learning woth DevOps practices to streamline the entire model lifecycle, from training to deployment.It ensures automation, collaboration and scalability in machine learning workflows. To supportthis a grwoing set of tools has emerged.
 
 ## MLflow Guide
