@@ -28,7 +28,7 @@ manages models in differnet lifecycle stages.
 
 - **deployment_.py**: Demonstrates how to deploy MLflow models, including local deployment with Flask and exporting models to different formats (ONNX, TensorFlow).
 
-- **compare_rfdetr_models.py**: Compares all RF-DETR object detection model variants (nano, small, base, large) by performing inference on an image and generating a comprehensive report of speed, accuracy, and other metrics.
+- **compare_models.py**: Compares all RF-DETR object detection model variants (nano, small, base, large) by performing inference on an image and generating a comprehensive report of speed, accuracy, and other metrics.
 
 - **Reproducibility_/Reproducibility__.py**: Shows how to ensure reproducibility in machine learning experiments using MLflow, including logging environment information and using fixed random seeds.
 
